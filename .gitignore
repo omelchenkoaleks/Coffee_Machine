@@ -1,0 +1,33 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Amount on account/out/
+/Problems/Amount on account/out/production/classes/
+/Problems/Application as a class/out/
+/Problems/Application as a class/out/production/classes/
+/Problems/Board game basics  Game/out/
+/Problems/Board game basics  Game/out/production/classes/
+/Problems/Board game basics  Player/out/
+/Problems/Board game basics  Player/out/production/classes/
+/Problems/City population/out/
+/Problems/City population/out/production/classes/
+/Problems/Currency comparision/out/
+/Problems/Currency comparision/out/production/classes/
+/Problems/Danger level/out/
+/Problems/Danger level/out/production/classes/
+/Problems/Direction/out/
+/Problems/Direction/out/production/classes/
+/Problems/Good rest on vacation/out/
+/Problems/Good rest on vacation/out/production/classes/
+/Problems/Healthy sleep/out/
+/Problems/Healthy sleep/out/production/classes/
+/Problems/Strings as objects/out/
+/Problems/Strings as objects/out/production/classes/
+/Problems/The sequence 1 2 2 3 3 3/out/
+/Problems/The sequence 1 2 2 3 3 3/out/production/classes/
+/Problems/Volume of a cube/out/
+/Problems/Volume of a cube/out/production/classes/
+/Problems/Weather comparison/out/
+/Problems/Weather comparison/out/production/classes/
