@@ -2,7 +2,6 @@ import java.util.*
 
 fun main(args: Array<String>) {
     val scanner = Scanner(System.`in`)
-
     when (scanner.nextInt()) {
         1 -> print("move up")
         2 -> print("move down")
